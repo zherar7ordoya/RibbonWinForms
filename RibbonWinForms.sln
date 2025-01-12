@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RibbonDemo1", "RibbonDemo1\RibbonDemo1.csproj", "{B72F4D92-C1BB-4466-A2A1-CF1F30B0BBBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RibbonDemo2", "RibbonDemo2\RibbonDemo2.csproj", "{C0BDF8B3-9D53-4C62-8A72-3C3555CC4C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72F4D92-C1BB-4466-A2A1-CF1F30B0BBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72F4D92-C1BB-4466-A2A1-CF1F30B0BBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72F4D92-C1BB-4466-A2A1-CF1F30B0BBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72F4D92-C1BB-4466-A2A1-CF1F30B0BBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BDF8B3-9D53-4C62-8A72-3C3555CC4C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BDF8B3-9D53-4C62-8A72-3C3555CC4C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BDF8B3-9D53-4C62-8A72-3C3555CC4C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BDF8B3-9D53-4C62-8A72-3C3555CC4C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
